@@ -1,0 +1,18 @@
+{
+  "name": "crudtest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CRUDTest",
+  "main": "index.js",
+  "author": "Manuel Delgadillo III <manuel@soydelgadillo.com>",
+  "license": "SEE LICENCE IN MD3.md",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.9.2",
+    "sha1": "^1.1.1",
+    "socket.io": "^2.1.1"
+  },
+  "repository": "https://git.soydelgadillo.com/autor/crudtest.git",
+  "homepage": "https://soydelgadillo.com.com/"
+}
